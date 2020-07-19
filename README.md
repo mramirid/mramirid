@@ -21,7 +21,7 @@
 
 I'm **Amir Muhammad Hakim**, I'm 20 years old, a bachelor's degree student, from Surabaya \- Indonesia. Currently focusing on **Web Development** and **Mobile Development** 🎯. I'm a community team member [@KOLU](https://github.com/KomunitasLinuxUPN), positioned as coordinator of Web Development Divison 🌐.
 
-<img align="right" alt="Meme" src="https://media1.tenor.com/images/773178bdbd6577a4928beb1184f05339/tenor.gif?itemid=13270512" />
+<!-- <img align="right" alt="Meme" src="https://media1.tenor.com/images/773178bdbd6577a4928beb1184f05339/tenor.gif?itemid=13270512" /> -->
 
 **My Current Activity:**
 
@@ -49,7 +49,7 @@ I'm **Amir Muhammad Hakim**, I'm 20 years old, a bachelor's degree student, from
 
 **My GitHub Stats:**  
 
-![visitors](https://gpvc.arturio.dev/mramirid)
+<!-- ![visitors](https://gpvc.arturio.dev/mramirid) -->
 
 [![Amir's github stats](https://github-readme-stats.vercel.app/api?username=mramirid)](https://github.com/mramirid)
 
