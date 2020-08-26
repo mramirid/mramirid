@@ -25,8 +25,8 @@ I'm **Amir Muhammad Hakim**, I'm 20 years old, a Computer Science student (Infor
 
 **My current activity:**
 
-- 👨🏽‍💻 I’m currently learning JavaScript/TypeScript stack, Go and Flutter 
-- ✨ My interests are with web development (JS/TS/Go) & mobile development (Flutter)
+- 👨🏽‍💻 I’m currently learning JavaScript/TypeScript stack & Flutter 
+- ✨ My interests are with web development & mobile development
 - 👨‍🎓 I'm doing a bachelor's degree in Informatics
 - 📧 Please email via amir.mramirid@gmail.com to reach me.
 - 📝 See my [LinkedIn](https://www.linkedin.com/in/mramirid) to get more info about me.
@@ -40,7 +40,6 @@ I'm **Amir Muhammad Hakim**, I'm 20 years old, a Computer Science student (Infor
 <code>
   <img height="35" src="https://upload.wikimedia.org/wikipedia/commons/7/75/Dino_in_the_Rain.png">
 </code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></code>
