@@ -46,6 +46,8 @@ I'm **Amir Muhammad Hakim**, I'm 20 years old, a Computer Science student (Infor
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 
+I have experience in the languages like Java, Kotlin, PHP, Python, C, C++ in the past
+
 <!-- **My GitHub Stats:**   -->
 
 <!-- ![visitors](https://gpvc.arturio.dev/mramirid) -->
