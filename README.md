@@ -19,13 +19,13 @@
 <br />
 <br />
 
-I'm **Amir Muhammad Hakim**, I'm 20 years old, a Computer Science student (Informatics), from Surabaya \- Indonesia. Currently focusing on **Web Development** and **Mobile Development**.
+I'm **Amir Muhammad Hakim**, I'm 20 years old, a computer science student, from Surabaya \- Indonesia. Currently focusing on **Web Development** and **Mobile Development**.
 
 <!-- <img align="right" alt="Meme" src="https://media1.tenor.com/images/773178bdbd6577a4928beb1184f05339/tenor.gif?itemid=13270512" /> -->
 
 **My current activity:**
 
-- 👨🏽‍💻 I’m currently learning MEVN stack & Flutter 
+- 👨🏽‍💻 I’m currently focusing on MEVN stack, Go & Flutter 
 - ✨ My interests are with web development & mobile development
 - 👨‍🎓 I'm doing a bachelor's degree in Informatics
 - 📧 Please email via amir.mramirid@gmail.com to reach me.
@@ -41,7 +41,11 @@ I'm **Amir Muhammad Hakim**, I'm 20 years old, a Computer Science student (Infor
   <img height="35" src="https://upload.wikimedia.org/wikipedia/commons/7/75/Dino_in_the_Rain.png">
 </code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code>
+  <img height="35" src="https://nuxtjs.org/logos/nuxt-emoji.png">
+</code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
