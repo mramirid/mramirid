@@ -1,63 +1,31 @@
-### Hi there 👋
+## Hi there 👋, I'm Amir Muhammad Hakim, a developer from Surabaya
 
-<a href="https://www.linkedin.com/in/mramirid">
-  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://t.me/mramirid">
-  <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://www.instagram.com/mramirid">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/mramirid/">
-  <img align="left" alt=" Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://twitter.com/mramirid">
-  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-
-<br />
-<br />
-
-I'm **Amir Muhammad Hakim**, I'm 20 years old, a computer science student, from Surabaya \- Indonesia. Currently focusing on **Web Development** and **Mobile Development**.
-
-<!-- <img align="right" alt="Meme" src="https://media1.tenor.com/images/773178bdbd6577a4928beb1184f05339/tenor.gif?itemid=13270512" /> -->
-
-**My current activity:**
-
-- 👨🏽‍💻 I’m currently focusing on MEVN stack, Go & Flutter 
+- 👨🏽‍💻 I’m currently focusing on MEVN stack, Go, Flutter & AWS Serverless
 - ✨ My interests are with web development & mobile development
 - 👨‍🎓 I'm doing a bachelor's degree in Informatics
 - 📧 Please email via amir.mramirid@gmail.com to reach me.
 - 📝 See my [LinkedIn](https://www.linkedin.com/in/mramirid) to get more info about me.
 
+<br />
 
-**My current tech stack & beyond:**  
+**Technologies & Tools**  
 
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code>
-  <img height="35" src="https://upload.wikimedia.org/wikipedia/commons/7/75/Dino_in_the_Rain.png">
-</code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code>
-  <img height="35" src="https://nuxtjs.org/logos/nuxt-emoji.png">
-</code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+| Role | Tools |
+| -- | -- |
+| Languages | ![](https://img.shields.io/badge/-JavaScript-lightgrey?logo=javascript&style=flat&logoColor=333&color=F7DF1E) ![](https://img.shields.io/badge/-TypeScript-darkblue?style=flat&logo=typescript) ![](https://img.shields.io/badge/-Go-0098cc?style=flat&logo=Go&logoColor=white) ![](https://img.shields.io/badge/-Dart-blue?style=flat&logo=Dart) |
+| Front-End Web | ![](https://img.shields.io/badge/-Vue.js-darkgreen?style=flat&logo=Vue.js) ![](https://img.shields.io/badge/-Nuxt.js-darkgreen?style=flat&logo=Nuxt.js)  |
+| Front-End Mobile | ![](https://img.shields.io/badge/-Flutter-blue?style=flat&logo=Flutter)  |
+| Back-End | ![](https://img.shields.io/badge/-Nodejs-white?style=flat&logo=Node.js&logoColor=white&color=darkgreen) ![](https://img.shields.io/badge/-Deno-black?style=flat&logo=Deno) ![](https://img.shields.io/badge/-Go-0098cc?style=flat&logo=Go&logoColor=white) ![](https://img.shields.io/badge/-Firebase-purple?style=flat&logo=Firebase) ![](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql) |
+| Database | ![](https://img.shields.io/badge/-MongoDB-darkgreen?style=flat&logo=mongodb) ![](https://img.shields.io/badge/-MySQL-darkblue?style=flat&logo=mysql&logoColor=darkblue&color=white) |
+| Cloud | ![](https://img.shields.io/badge/AWS%20Serverless-chocolate?style=flat&logo=amazon-aws)  |
+| SCM | ![](https://img.shields.io/badge/Git-red?logo=git&style=flat&color=white) ![](https://img.shields.io/badge/Gitkraken-white?logo=gitkraken&style=flat&color=002633)  |
 
 I have experience in the languages like Java, Kotlin, PHP, Python, C, C++ in the past
 
-<!-- **My GitHub Stats:**   -->
+<br />
 
-<!-- ![visitors](https://gpvc.arturio.dev/mramirid) -->
+**Contact & More info about me**
 
-<!-- [![Amir's github stats](https://github-readme-stats.vercel.app/api?username=mramirid)](https://github.com/mramirid) -->
-
-
-
-
+[![Linkedin Badge](https://img.shields.io/badge/-mramirid-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mramirid/)](https://www.linkedin.com/in/mramirid/)
+[![Telegram Badge](https://img.shields.io/badge/-mramirid-blue?style=flat&logo=telegram&logoColor=white&link=https://www.youtube.com/c/mramirid)](https://t.me/mramirid)
+[![Gmail Badge](https://img.shields.io/badge/-amir.mramirid@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:amir.mramirid@gmail.com)](mailto:amir.mramirid@gmail.com)
